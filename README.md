@@ -1,5 +1,9 @@
 # 🚀 Space Cafe Manager
 
+## TL;DR
+
+A browser-based idle/clicker game: run a space cafe, serve alien customers, prestige across galaxies. Pure HTML/CSS/JS, built by vibe coding. Goal: a fun, zero-dependency game.
+
 > An idle/clicker game where you run a cafe in the middle of outer space!
 
 **🎮 Play it now on itch.io:** [Space Cafe Manager](https://saffron-studio.itch.io/space-cafe-manager)
